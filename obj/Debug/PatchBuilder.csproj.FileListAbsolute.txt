@@ -1,0 +1,6 @@
+C:\Users\Draex\Documents\Avarice\PatchBuilder\PatchBuilder\bin\Debug\PatchBuilder.exe.config
+C:\Users\Draex\Documents\Avarice\PatchBuilder\PatchBuilder\bin\Debug\PatchBuilder.exe
+C:\Users\Draex\Documents\Avarice\PatchBuilder\PatchBuilder\bin\Debug\PatchBuilder.pdb
+C:\Users\Draex\Documents\Avarice\PatchBuilder\PatchBuilder\obj\Debug\PatchBuilder.exe
+C:\Users\Draex\Documents\Avarice\PatchBuilder\PatchBuilder\obj\Debug\PatchBuilder.pdb
+C:\Users\Draex\Documents\Avarice\PatchBuilder\PatchBuilder\obj\Debug\PatchBuilder.csprojResolveAssemblyReference.cache
